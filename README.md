@@ -1,2 +1,2 @@
-# jovian-careers-website
-A careers website for Jovian
+# Alijobs-careers-website
+A careers website for Alijobs
